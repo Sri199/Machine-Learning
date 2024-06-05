@@ -10,4 +10,6 @@ Overall, the project successfully demonstrated the application of data analysis 
 
 ## 2.Epilepsy Project
 
+This project involves analyzing epilepsy data to predict the status of patients using various machine learning models. The dataset underwent comprehensive data preprocessing, including handling missing values, converting data types, and encoding categorical variables. Exploratory Data Analysis (EDA) was performed with pandas, seaborn, and matplotlib to visualize trends and gain insights into the data. Feature engineering was applied to create new relevant features for better model performance. The machine learning models used for prediction include Logistic Regression, Decision Tree, Random Forest Regressor, Gradient Boosting Classifier, and AdaBoost. GridSearchCV was utilized to identify the best hyperparameters for these models. Additionally, pipelines were implemented to streamline the workflow and reduce the number of steps in the process. Among the models, the Decision Tree achieved the best accuracy with a score of 90%. This project demonstrates the effective application of data preprocessing, EDA, feature engineering, and machine learning techniques to predict epilepsy status, providing valuable insights and predictive capabilities in the medical domain.
+
 
